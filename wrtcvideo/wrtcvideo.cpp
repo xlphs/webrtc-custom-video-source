@@ -3,10 +3,9 @@
 
 #include "stdafx.h"
 
-#define WEBRTC_WIN
-
 #include "webrtc/rtc_base/flags.h"
 #include "webrtc/api/peerconnectioninterface.h"
+
 
 #include "DataSocket.h"
 #include "PeerChannel.h"
